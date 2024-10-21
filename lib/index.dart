@@ -1,0 +1,61 @@
+// Export pages
+export '/secciones/c_autentificacion/scr_login/scr_login_widget.dart'
+    show ScrLoginWidget;
+export '/secciones/c_autentificacion/scr_recuperar_pass/scr_recuperar_pass_widget.dart'
+    show ScrRecuperarPassWidget;
+export '/secciones/c_autentificacion/scr_registro/scr_registro_widget.dart'
+    show ScrRegistroWidget;
+export '/secciones/b_admin/scr_escuelas/scr_escuelas_widget.dart'
+    show ScrEscuelasWidget;
+export '/secciones/c_autentificacion/scr_user_autorizado/scr_user_autorizado_widget.dart'
+    show ScrUserAutorizadoWidget;
+export '/secciones/b_admin/scr_archivos/scr_archivos_widget.dart'
+    show ScrArchivosWidget;
+export '/secciones/a_usuarios/scr_home/scr_home_widget.dart' show ScrHomeWidget;
+export '/secciones/b_admin/scr_usuarios/scr_usuarios_widget.dart'
+    show ScrUsuariosWidget;
+export '/secciones/d_root/scr_multipantalla/scr_multipantalla_widget.dart'
+    show ScrMultipantallaWidget;
+export '/secciones/c_autentificacion/scr_landing/scr_landing_widget.dart'
+    show ScrLandingWidget;
+export '/secciones/d_root/scr_cel/scr_cel_widget.dart' show ScrCelWidget;
+export '/secciones/b_admin/scr_libros/scr_libros_widget.dart'
+    show ScrLibrosWidget;
+export '/secciones/a_usuarios/scr_contenido/scr_contenido_widget.dart'
+    show ScrContenidoWidget;
+export '/secciones/b_admin/scr_actividad/scr_actividad_widget.dart'
+    show ScrActividadWidget;
+export '/scr_base/scr_base_widget.dart' show ScrBaseWidget;
+export '/web_app/pantallas/discarted/app_forgot/app_forgot_widget.dart'
+    show AppForgotWidget;
+export '/web_app/pantallas/autentificacion/app_register/app_register_widget.dart'
+    show AppRegisterWidget;
+export '/web_app/pantallas/usuario/app_add_q_r/app_add_q_r_widget.dart'
+    show AppAddQRWidget;
+export '/web_app/pantallas/usuario/app_home/app_home_widget.dart'
+    show AppHomeWidget;
+export '/web_app/pantallas/discarted/app_books/app_books_widget.dart'
+    show AppBooksWidget;
+export '/web_app/pantallas/discarted/app_songs/app_songs_widget.dart'
+    show AppSongsWidget;
+export '/web_app/pantallas/discarted/app_player/app_player_widget.dart'
+    show AppPlayerWidget;
+export '/web_app/pantallas/usuario/app_profile/app_profile_widget.dart'
+    show AppProfileWidget;
+export '/secciones/c_autentificacion/scr404/scr404_widget.dart'
+    show Scr404Widget;
+export '/web_app/pantallas/autentificacion/app_login/app_login_widget.dart'
+    show AppLoginWidget;
+export '/secciones/a_usuarios/scr_cambiarpass/scr_cambiarpass_widget.dart'
+    show ScrCambiarpassWidget;
+export '/secciones/c_autentificacion/scr_nvo_password/scr_nvo_password_widget.dart'
+    show ScrNvoPasswordWidget;
+export '/web_app/pantallas/autentificacion/app_q_r_invalido/app_q_r_invalido_widget.dart'
+    show AppQRInvalidoWidget;
+export '/secciones/b_admin/scr_recomendaciones/scr_recomendaciones_widget.dart'
+    show ScrRecomendacionesWidget;
+export '/secciones/b_admin/scr_padres/scr_padres_widget.dart'
+    show ScrPadresWidget;
+export '/secciones/b_admin/scr_q_rs/scr_q_rs_widget.dart' show ScrQRsWidget;
+export '/web_app/pantallas/usuario/app_videoplayer/app_videoplayer_widget.dart'
+    show AppVideoplayerWidget;
